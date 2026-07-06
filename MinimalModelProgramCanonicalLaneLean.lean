@@ -1,0 +1,7 @@
+-- This module is the root of the MinimalModelProgramCanonicalLaneLean Lean proof package.
+import MinimalModelProgramCanonicalLaneLean.Basic
+import MinimalModelProgramCanonicalLaneLean.SourcePackage
+import MinimalModelProgramCanonicalLaneLean.SourceDependencies
+import MinimalModelProgramCanonicalLaneLean.Formalization
+import MinimalModelProgramCanonicalLaneLean.ReviewerBridge
+import MinimalModelProgramCanonicalLaneLean.TheoremStatement
